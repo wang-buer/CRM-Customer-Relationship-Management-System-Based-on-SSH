@@ -1,10 +1,4 @@
-# 基于SSH的CRM客户关系管理系统
-
-## 获取方式
-
-扫描下方，回复关键词  ：**客户1** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+# 基于SSH的CRM客户关系管理系统1
 
 ## 1、项目介绍
 
@@ -31,47 +25,44 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207191635093.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202207191635093.jpg)
 
 ### 4.2 销售管理模块
 
-![销售机会管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207191636185.jpg)
+![销售机会管理](https://www.codeshop.fun/Typora-Images/202207191636185.jpg)
 
-![新建销售信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207191636913.jpg)
+![新建销售信息](https://www.codeshop.fun/Typora-Images/202207191636913.jpg)
 
-![客户开发计划1](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207191636313.jpg)
+![客户开发计划1](https://www.codeshop.fun/Typora-Images/202207191636313.jpg)
 
-![客户开发计划2](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207191636495.jpg)
+![客户开发计划2](https://www.codeshop.fun/Typora-Images/202207191636495.jpg)
 
 ### 4.3 客户管理模块
 
-![客户信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207191636571.jpg)
+![客户信息管理](https://www.codeshop.fun/Typora-Images/202207191636571.jpg)
 
-![创建客户服务](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207191636594.jpg)
+![创建客户服务](https://www.codeshop.fun/Typora-Images/202207191636594.jpg)
 
 ### 4.4服务管理 模块
 
-![服务分配](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207191636446.jpg)
+![服务分配](https://www.codeshop.fun/Typora-Images/202207191636446.jpg)
 
-![服务处理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207191636720.jpg)
+![服务处理](https://www.codeshop.fun/Typora-Images/202207191636720.jpg)
 
-![服务反馈1](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207191636867.jpg)
+![服务反馈1](https://www.codeshop.fun/Typora-Images/202207191636867.jpg)
 
-![服务反馈2](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207191637386.jpg)
+![服务反馈2](https://www.codeshop.fun/Typora-Images/202207191637386.jpg)
 
-![服务归档](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207191637508.jpg)
+![服务归档](https://www.codeshop.fun/Typora-Images/202207191637508.jpg)
 
 ### 4.5其他模块
 
-![统计报表](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207191637259.jpg)
+![统计报表](https://www.codeshop.fun/Typora-Images/202207191637259.jpg)
 
-![数据字典管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207191637001.jpg)
+![数据字典管理](https://www.codeshop.fun/Typora-Images/202207191637001.jpg)
 
-## 5、获取方式
+## 获取方式
 
-扫描下方，回复关键词  ：**客户1** ，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**客户**，查看导入教程视频、sql脚本和源码等
 
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
